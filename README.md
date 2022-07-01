@@ -20,18 +20,33 @@ Here are some ideas to get you started:
 Koladele Olaitan
 ================
 
-Frontend Web Developer
+Frontend Web Developer & Blogger
 
-### Proficient Using:
+### 🔍 Important Links:
 
-*   HTML
-*   CSS (Sass)
-*   Bootstrap
-*   JavaScript
-*   WordPress
-*   Elementor
+*   [📩 LinkedIn](https://www.linkedin.com/in/koladeleolaitan/)
+*   [📩 E-mail](mailto:koladeleolaitan@gmail.com)
+*   [📩 Portfolio](https://publikphigor.me/)
+*   [🅰 Project I Developed](https://emmanuelpriestley.xyz)
+*   [🅱 Project I Developed](https://publikphigor-web-agency.netlify.app/)
 
-### Looking to learn:
+### 💯 Proficient Using:
 
-*   React
-*   TypeScript
+*   🔧 HTML
+*   🔧 CSS (Sass)
+*   🔧 Bootstrap
+*   🔧 JavaScript
+*   🔧 WordPress
+*   🔧 Elementor
+
+### 📌 Looking to learn:
+
+*   🔧 React
+*   🔧 TypeScript
+
+### What I do:
+
+*   I contrubute to making the web better pixel by pixel. 🌞
+*   I contribute to Open Source (not with PRs 👀) by writing contents. 👼
+*   I write code (JavaScript). 💻
+*   Look for money. 💰
