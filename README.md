@@ -44,7 +44,7 @@ I am a Frontend Web Developer & Blogger
 
 ### What I do:
 
-*   I contrubute to making the web better pixel by pixel. 🌞
-*   I contribute to Open Source (not with PRs 👀) by writing contents. 👼
-*   I write code (JavaScript). 💻
-*   Look for money. 💰
+*   🌞 I contrubute to making the web better pixel by pixel.
+*   👼 I contribute to Open Source (not with PRs 👀) by writing contents.
+*   💻 I write code (JavaScript).
+*   💰 Look for money.
