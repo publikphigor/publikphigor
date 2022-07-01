@@ -48,7 +48,7 @@ My name is Koladele Olaitan
 *   👼 I contribute to Open Source (not with PRs 👀) by writing contents.
 *   💻 I write code (JavaScript).
 *   💻 I use no-code tools to automate processes and deploy MVPs faster.
-*   💰 Stack money.
+*   💰 Stack money!
 
 #### 😀 I'm open to Frontend Developer and Technical Writing jobs, gigs, or contracts.
-#### [📩 Hire Me](mailto:koladeleolaitan@gmail.com) Let's make the web better together!
+#### [📩 Hire Me](mailto:koladeleolaitan@gmail.com), let's make the web better together!
