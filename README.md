@@ -37,12 +37,12 @@ I am a Frontend Web Developer & Blogger
 *   🔧 WordPress
 *   🔧 Elementor
 
-### 📌 Looking to learn:
+### 📌 Looking to Learn:
 
-*   🔧 React
+*   🔧 React (or Vue)
 *   🔧 TypeScript
 
-### 😎 What I do:
+### 😎 What I Do:
 
 *   🌞 I contrubute to making the web better pixel by pixel (by pushing quality code).
 *   👼 I contribute to Open Source (not with PRs 👀) by writing contents.
