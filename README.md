@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is Koladele Olaitan
 ================
 
-I am a Frontend Web Developer & Blogger
+##### I am a Frontend Web Developer & Blogger. 😎
 
 ### 🔍 Important Links:
 
@@ -50,4 +50,5 @@ I am a Frontend Web Developer & Blogger
 *   💻 I use no-code tools to automate processes and deploy MVPs faster.
 *   💰 Stack money.
 
-### 😀 I'm open to Frontend Developer and Technical Writing jobs, gigs, or contracts.
+#### 😀 I'm open to Frontend Developer and Technical Writing jobs, gigs, or contracts.
+#### [📩 Hire Me](mailto:koladeleolaitan@gmail.com) Let's make the web better together!
