@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! 👋
 
 <!--
 **publikphigor/publikphigor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-   Koladele Olaitan body { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif; font-size: 1rem; } div { width: 90%; margin: 24px auto; display: flex; flex-direction: column; justify-content: center; } h1 { font-size: 4rem; font-weight: 400; margin: 0; } p { margin: 0; } h3 { font-size: 2rem; font-weight: 400; margin-bottom: 0; } li { list-style-type: none; padding-bottom: 24px; font-size: 1.2rem; }
-
-Koladele Olaitan
+My name is Koladele Olaitan
 ================
 
-Frontend Web Developer & Blogger
+I am a Frontend Web Developer & Blogger
 
 ### 🔍 Important Links:
 
