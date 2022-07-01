@@ -49,3 +49,5 @@ I am a Frontend Web Developer & Blogger
 *   💻 I write code (JavaScript).
 *   💻 I use no-code tools to automate processes and deploy MVPs faster.
 *   💰 Stack money.
+
+### 😀 I'm open to Frontend Developer and Technical Writing jobs, gigs, or contracts.
