@@ -25,6 +25,7 @@ My name is Koladele Olaitan
 *   [📩 LinkedIn](https://www.linkedin.com/in/koladeleolaitan/)
 *   [📩 E-mail](mailto:koladeleolaitan@gmail.com)
 *   [📩 Portfolio](https://koladeleolaitan.com/)
+*   [📩 Personal Blog](https://publikphigor.me/blog/)
 *   [🅰 Project I Developed](https://emmanuelpriestley.xyz)
 *   [🅱 Project I Developed](https://publikphigor-web-agency.netlify.app/)
 
