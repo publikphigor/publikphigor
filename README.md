@@ -38,9 +38,9 @@ My name is Koladele Olaitan
 *   🔧 WordPress
 *   🔧 Elementor
 
-### 📌 Looking to Learn:
+### 📌 Currently Learning:
 
-*   🔧 React (or Vue)
+*   🔧 React
 *   🔧 TypeScript
 
 ### 😎 What I Do:
