@@ -35,13 +35,11 @@ My name is Koladele Olaitan
 *   🔧 CSS (Sass)
 *   🔧 Bootstrap
 *   🔧 JavaScript
+*   🔧 React
+*   🔧 TypeScript
 *   🔧 WordPress
 *   🔧 Elementor
 
-### 📌 Currently Learning:
-
-*   🔧 React
-*   🔧 TypeScript
 
 ### 😎 What I Do:
 
