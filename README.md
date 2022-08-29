@@ -58,5 +58,8 @@ My name is Koladele Olaitan
 *   💻 I use no-code tools to automate processes and deploy MVPs faster.
 *   💰 Stack money!
 
+### Streaks?
+(https://github-readme-streak-stats.herokuapp.com/?user=publikphigor)
+
 #### 😀 I'm open to Frontend Developer and Technical Writing jobs, gigs, or contracts.
 #### [📩 Hire Me](mailto:koladeleolaitan@gmail.com), let's make the web better together!
