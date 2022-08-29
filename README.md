@@ -26,8 +26,8 @@ My name is Koladele Olaitan
 *   [📩 E-mail](mailto:koladeleolaitan@gmail.com)
 *   [📩 Portfolio](https://koladeleolaitan.com/)
 *   [📩 Personal Blog](https://publikphigor.me/blog/)
-*   [🅰 Project I Developed](https://emmanuelpriestley.xyz)
-*   [🅱 Project I Developed](https://publikphigor-web-agency.netlify.app/)
+*   [🅰 Tool I built](https://calcaspectratio.netlify.app/)
+*   [🅱 Project I'm proud of](https://publikphigor-web-agency.netlify.app/)
 
 
 ### 🛠 &nbsp; Tech Stack
