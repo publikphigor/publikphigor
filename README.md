@@ -48,7 +48,7 @@ My name is Koladele Olaitan
 
 *   🌞 I contrubute to making the web better pixel by pixel (by pushing quality code).
 *   👼 I contribute to Open Source.
-*   💻 I write code (JavaScript).
+*   💻 I build tools that simplify tasks.
 *   💻 I use no-code tools to automate processes and deploy MVPs faster.
 *   💰 Stack money!
 
