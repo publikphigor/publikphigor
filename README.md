@@ -29,16 +29,6 @@ My name is Koladele Olaitan
 *   [🅰 Project I Developed](https://emmanuelpriestley.xyz)
 *   [🅱 Project I Developed](https://publikphigor-web-agency.netlify.app/)
 
-### 💯 Proficient Using:
-
-*   🔧 HTML
-*   🔧 CSS (Sass)
-*   🔧 Bootstrap
-*   🔧 JavaScript
-*   🔧 React
-*   🔧 TypeScript
-*   🔧 WordPress
-*   🔧 Elementor
 
 ### 🛠 &nbsp; Tech Stack
 
