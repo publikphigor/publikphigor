@@ -59,7 +59,7 @@ My name is Koladele Olaitan
 *   💰 Stack money!
 
 ### Streaks?
-(https://github-readme-streak-stats.herokuapp.com/?user=publikphigor)
+[(https://github-readme-streak-stats.herokuapp.com/?user=publikphigor)]
 
 #### 😀 I'm open to Frontend Developer and Technical Writing jobs, gigs, or contracts.
 #### [📩 Hire Me](mailto:koladeleolaitan@gmail.com), let's make the web better together!
