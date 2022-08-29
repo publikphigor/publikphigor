@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is Koladele Olaitan
 ================
 
-##### I am a Frontend Developer & Blogger. 😎
+##### I am a Frontend Developer & Technical Writer/Blogger. 😎
 
 ### 🔍 Important Links:
 
