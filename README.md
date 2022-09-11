@@ -20,7 +20,7 @@ My name is Koladele Olaitan
 
 ##### I am a Frontend Developer & Technical Writer/Blogger. 😎
 
-### 🔍 Quick Links:
+### 🖇️ Quick Links:
 
 *   [👨‍🏫 LinkedIn](https://www.linkedin.com/in/koladeleolaitan/)
 *   [📩 E-mail](mailto:koladeleolaitan@gmail.com)
