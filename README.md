@@ -22,10 +22,11 @@ My name is Koladele Olaitan
 
 ### 🔍 Quick Links:
 
-*   [📩 LinkedIn](https://www.linkedin.com/in/koladeleolaitan/)
+*   [👨‍🏫 LinkedIn](https://www.linkedin.com/in/koladeleolaitan/)
 *   [📩 E-mail](mailto:koladeleolaitan@gmail.com)
-*   [📩 Portfolio](https://koladeleolaitan.com/)
-*   [📩 Personal Blog](https://publikphigor.me/blog/)
+*   [🌐 Portfolio](https://koladeleolaitan.com/)
+*   [🎓 Resume](https://koladele-resume.netlify.app/)
+*   [📝 Personal Blog](https://publikphigor.me/blog/)
 *   [🅰 Tool I built](https://calcaspectratio.netlify.app/)
 *   [🅱 Project I'm proud of](https://publikphigor-web-agency.netlify.app/)
 
