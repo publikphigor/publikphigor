@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Koladele Olaitan
+I am Koladele Olaitan
 ================
 
 ##### I am a Frontend Developer & Technical Writer/Blogger. 😎
