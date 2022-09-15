@@ -20,7 +20,7 @@ My name is Koladele Olaitan
 
 ##### I am a Frontend Developer & Technical Writer/Blogger. 😎
 
-### 🖇️ Quick Links:
+### 🖇️ QUICK LINKS:
 
 *   [👨‍🏫 LinkedIn](https://www.linkedin.com/in/koladeleolaitan/)
 *   [📩 E-mail](mailto:koladeleolaitan@gmail.com)
@@ -31,7 +31,7 @@ My name is Koladele Olaitan
 *   [🅱 Project I'm proud of](https://publikphigor-web-agency.netlify.app/)
 
 
-### 🛠 &nbsp; Tech Stack
+### 🛠 &nbsp; TECH STACK
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -51,7 +51,7 @@ My name is Koladele Olaitan
 
 
 
-### 😎 What I Do:
+### 😎 WHAT I DO:
 
 *   🌞 I contrubute to making the web better pixel by pixel (by pushing quality code).
 *   👼 I contribute to Open Source.
