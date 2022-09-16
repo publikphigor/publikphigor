@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am Koladele Olaitan
 ================
 
-##### I am a Frontend Developer & Technical Writer/Blogger. 😎
+##### Frontend Developer & Technical Writer/Blogger. 😎
 
 ### 🖇️ QUICK LINKS:
 
