@@ -58,6 +58,7 @@ I am Koladele Olaitan
 
 *   🌞 I contrubute to making the web better pixel by pixel (by pushing quality code).
 *   👼 I contribute to Open Source.
+*   📝 I run a personal blog.
 *   💻 I build tools that simplify tasks.
 *   💻 I use no-code tools to automate processes and deploy MVPs faster.
 *   💰 Stack money!
