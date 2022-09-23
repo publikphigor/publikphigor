@@ -23,7 +23,7 @@ I am Koladele Olaitan
 ### 🖇️ QUICK LINKS:
 
 *   [👨‍🏫 LinkedIn](https://www.linkedin.com/in/koladeleolaitan/)
-*   [📩 E-mail](mailto:koladeleolaitan@gmail.com)
+*   [📩 Send a mail](mailto:koladeleolaitan@gmail.com)
 *   [🌐 Portfolio Website](https://koladeleolaitan.com/)
 *   [🎓 Resume Website](https://koladele-resume.netlify.app/)
 *   [📝 Personal Blog](https://publikphigor.me/blog/)
