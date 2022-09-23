@@ -24,8 +24,8 @@ I am Koladele Olaitan
 
 *   [👨‍🏫 LinkedIn](https://www.linkedin.com/in/koladeleolaitan/)
 *   [📩 E-mail](mailto:koladeleolaitan@gmail.com)
-*   [🌐 Portfolio](https://koladeleolaitan.com/)
-*   [🎓 Resume](https://koladele-resume.netlify.app/)
+*   [🌐 Portfolio Website](https://koladeleolaitan.com/)
+*   [🎓 Resume Website](https://koladele-resume.netlify.app/)
 *   [📝 Personal Blog](https://publikphigor.me/blog/)
 *   [🅰 Tool I built](https://calcaspectratio.netlify.app/)
 *   [🅱 Project I'm proud of](https://publikphigor-web-agency.netlify.app/)
