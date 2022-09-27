@@ -47,5 +47,8 @@
 ### Streaks?
 ![](https://github-readme-streak-stats.herokuapp.com/?user=publikphigor)
 
+### Badges
+[![@publikphigor's Holopin board](https://holopin.io/api/user/board?user=publikphigor)](https://holopin.io/@publikphigor)
+
 #### 😀 I'm open to Frontend Developer and Technical Writing jobs, gigs, or contracts.
 #### [📩 Hire Me](mailto:koladeleolaitan@gmail.com), let's make the web better together!
