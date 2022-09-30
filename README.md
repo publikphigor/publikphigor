@@ -47,7 +47,7 @@
 ### Streaks?
 ![](https://github-readme-streak-stats.herokuapp.com/?user=publikphigor)
 
-### Hacktoberfest Badges? (Incoming)
+### Hacktoberfest Badges?
 [![@publikphigor's Holopin board](https://holopin.io/api/user/board?user=publikphigor)](https://holopin.io/@publikphigor)
 
 #### 😀 I'm open to Frontend Developer and Technical Writing jobs, gigs, or contracts.
