@@ -8,8 +8,8 @@
 *   [🌐 Portfolio Website](https://koladeleolaitan.com/)
 *   [🎓 Resume Website](https://koladele-resume.netlify.app/)
 *   [📝 Personal Blog](https://publikphigor.me/blog/)
-*   [🅰 Built this](https://calcaspectratio.netlify.app/)
-*   [🅱 Also built this](https://publikphigor-web-agency.netlify.app/)
+*   [🅰 I built this](https://calcaspectratio.netlify.app/)
+*   [🅱 I also built this](https://publikphigor-web-agency.netlify.app/)
 
 
 ### 🛠 &nbsp; TECH STACK
