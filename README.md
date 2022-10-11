@@ -4,7 +4,7 @@
 
 ### 🖇️ QUICK LINKS:
 *   [👨‍🏫 Connect on LinkedIn](https://www.linkedin.com/in/koladeleolaitan/)
-*   [📩 Send a mail](mailto:koladeleolaitan@gmail.com)
+*   [📩 Send a Mail](mailto:koladeleolaitan@gmail.com)
 *   [🌐 Portfolio Website](https://koladeleolaitan.com/)
 *   [🎓 Resume Website](https://koladele-resume.netlify.app/)
 *   [📝 Personal Blog](https://publikphigor.me/blog/)
