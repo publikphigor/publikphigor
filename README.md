@@ -5,8 +5,8 @@
 ### 🖇️ QUICK LINKS:
 *   [👨‍🏫 Connect on LinkedIn](https://www.linkedin.com/in/koladeleolaitan/)
 *   [📩 Send a Mail](mailto:koladeleolaitan@gmail.com)
-*   [🌐 Portfolio Website](https://koladeleolaitan.com/)
-*   [🎓 Resume Website](https://koladele-resume.netlify.app/)
+*   [🌐 View Portfolio Website](https://koladeleolaitan.com/)
+*   [🎓 View Resume Website](https://koladele-resume.netlify.app/)
 *   [📝 Personal Blog](https://publikphigor.me/blog/)
 *   [🅰 I built this](https://calcaspectratio.netlify.app/)
 *   [🅱 I also built this](https://publikphigor-web-agency.netlify.app/)
