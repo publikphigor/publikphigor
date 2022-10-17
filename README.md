@@ -1,7 +1,8 @@
-<p align="center">
 `<HelloWorld! 👋/>`
 
-## I am Koladele Olaitan
+<p align="center">
+    ## I am Koladele Olaitan
+</p>
 
 ##### Frontend Developer & Technical Writer/Blogger. 😎
 
@@ -56,5 +57,3 @@
 #### 😀 I'm open to Frontend Developer and Technical Writing jobs, gigs, or contracts.
 
 #### [📩 Hire Me](mailto:koladeleolaitan@gmail.com), let's make the web better together!
-
-</p>
