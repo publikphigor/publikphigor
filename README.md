@@ -13,6 +13,7 @@
 </h4>
 
 <ul align="center">
+    <li align="center"><a> href="https://www.linkedin.com/in/koladeleolaitan/">👨‍🏫 Connect on LinkedIn</a></li>
     <li align="center">[👨‍🏫 Connect on LinkedIn](https://www.linkedin.com/in/koladeleolaitan/)</li>
     <li align="center">[📩 Send a Mail](mailto:koladeleolaitan@gmail.com)</li>
     <li align="center">[🌐 View Portfolio Website](https://koladeleolaitan.com/)</li>
