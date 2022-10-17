@@ -1,16 +1,18 @@
-```<HelloWorld! 👋/>```
-## I am Koladele Olaitan 
+`<HelloWorld! 👋/>`
+
+## I am Koladele Olaitan
+
 ##### Frontend Developer & Technical Writer/Blogger. 😎
 
 ### 🖇️ QUICK LINKS:
-*   [👨‍🏫 Connect on LinkedIn](https://www.linkedin.com/in/koladeleolaitan/)
-*   [📩 Send a Mail](mailto:koladeleolaitan@gmail.com)
-*   [🌐 View Portfolio Website](https://koladeleolaitan.com/)
-*   [🎓 View Resume Website](https://koladele-resume.netlify.app/)
-*   [📝 Personal Blog](https://publikphigor.me/blog/)
-*   [🅰 I built this](https://calcaspectratio.netlify.app/)
-*   [🅱 I also built this](https://publikphigor-web-agency.netlify.app/)
 
+- [👨‍🏫 Connect on LinkedIn](https://www.linkedin.com/in/koladeleolaitan/)
+- [📩 Send a Mail](mailto:koladeleolaitan@gmail.com)
+- [🌐 View Portfolio Website](https://koladeleolaitan.com/)
+- [🎓 View Resume Website](https://koladele-resume.netlify.app/)
+- [📝 Personal Blog](https://publikphigor.me/blog/)
+- [🅰 I built this](https://calcaspectratio.netlify.app/)
+- [🅱 I also built this](https://publikphigor-web-agency.netlify.app/)
 
 ### 🛠 &nbsp; TECH STACK
 
@@ -25,6 +27,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -32,23 +35,23 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
-
-
-
 ### 😎 WHAT I DO:
 
-*   🚀 I contrubute to making the web better pixel by pixel (by pushing quality code).
-*   👨🏿‍💻 I contribute to Open Source.
-*   📝 I run a personal blog.
-*   💻 I build tools that simplify tasks.
-*   💻 I use no-code tools to automate processes and deploy MVPs faster.
-*   💰 Stack money!
+- 🚀 I contrubute to making the web better pixel by pixel (by pushing quality code).
+- 👨🏿‍💻 I contribute to Open Source.
+- 📝 I run a personal blog.
+- 💻 I build tools that simplify tasks.
+- 💻 I use no-code tools to automate processes and deploy MVPs faster.
+- 💰 Stack money!
 
 ### Streaks?
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=publikphigor)
 
 ### Hacktoberfest Badges?
+
 [![@publikphigor's Holopin board](https://holopin.me/publikphigor)](https://holopin.io/@publikphigor)
 
 #### 😀 I'm open to Frontend Developer and Technical Writing jobs, gigs, or contracts.
+
 #### [📩 Hire Me](mailto:koladeleolaitan@gmail.com), let's make the web better together!
