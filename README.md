@@ -1,3 +1,4 @@
+<p align="center">
 `<HelloWorld! 👋/>`
 
 ## I am Koladele Olaitan
@@ -55,3 +56,5 @@
 #### 😀 I'm open to Frontend Developer and Technical Writing jobs, gigs, or contracts.
 
 #### [📩 Hire Me](mailto:koladeleolaitan@gmail.com), let's make the web better together!
+
+</p>
