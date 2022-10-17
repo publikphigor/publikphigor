@@ -1,8 +1,8 @@
 `<HelloWorld! 👋/>`
 
-<p align="center">
-    ## I am Koladele Olaitan
-</p>
+<h2 align="center">
+    I am Koladele Olaitan
+</h2>
 
 ##### Frontend Developer & Technical Writer/Blogger. 😎
 
