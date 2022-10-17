@@ -1,39 +1,20 @@
 `<HelloWorld! 👋/>`
 
-<h2 align="center">
-    I am Koladele Olaitan
-</h2>
+## I am Koladele Olaitan
 
-<h4 align="center">
-    Frontend Developer & Technical Writer/Blogger. 😎
-</h4>
+#### Frontend Developer & Technical Writer/Blogger. 😎
 
-<h4 align="center">
-    🖇️ QUICK LINKS:
-</h4>
+#### 🖇️ QUICK LINKS:
 
-<ul align="center">
-    <li align="center"><a> href="https://www.linkedin.com/in/koladeleolaitan/">👨‍🏫 Connect on LinkedIn</a></li>
-    <li align="center">[👨‍🏫 Connect on LinkedIn](https://www.linkedin.com/in/koladeleolaitan/)</li>
-    <li align="center">[📩 Send a Mail](mailto:koladeleolaitan@gmail.com)</li>
-    <li align="center">[🌐 View Portfolio Website](https://koladeleolaitan.com/)</li>
-    <li align="center">[🎓 View Resume Website](https://koladele-resume.netlify.app/)</li>
-    <li align="center">[📝 Personal Blog](https://publikphigor.me/blog/)</li>
-    <li align="center">[🅰 I built this](https://calcaspectratio.netlify.app/)</li>
-    <li align="center">[🅱 I also built this](https://publikphigor-web-agency.netlify.app/)</li>
-</ul>
-
-<!-- - [👨‍🏫 Connect on LinkedIn](https://www.linkedin.com/in/koladeleolaitan/)
+- [👨‍🏫 Connect on LinkedIn](https://www.linkedin.com/in/koladeleolaitan/)
 - [📩 Send a Mail](mailto:koladeleolaitan@gmail.com)
 - [🌐 View Portfolio Website](https://koladeleolaitan.com/)
 - [🎓 View Resume Website](https://koladele-resume.netlify.app/)
 - [📝 Personal Blog](https://publikphigor.me/blog/)
 - [🅰 I built this](https://calcaspectratio.netlify.app/)
-- [🅱 I also built this](https://publikphigor-web-agency.netlify.app/) -->
+- [🅱 I also built this](https://publikphigor-web-agency.netlify.app/)
 
-<!-- ### 🛠 &nbsp; TECH STACK -->
-
-<h3 align="center">🛠 &nbsp; TECH STACK</h3>
+### 🛠 &nbsp; TECH STACK
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
