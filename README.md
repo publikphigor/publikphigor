@@ -11,8 +11,8 @@
 - [🌐 View Portfolio Website](https://koladeleolaitan.com/)
 - [🎓 View Resume Website](https://koladele-resume.netlify.app/)
 - [📝 Personal Blog](https://publikphigor.me/blog/)
-- [🅰 I built this](https://calcaspectratio.netlify.app/)
-- [🅱 I also built this](https://publikphigor-web-agency.netlify.app/)
+- [🅰 I built this](https://publikphigor-web-agency.netlify.app/)
+- [🅱 I'm building this](https://cryptodyor.vercel.app/)
 
 ### 🛠 &nbsp; TECH STACK
 
