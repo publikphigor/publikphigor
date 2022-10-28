@@ -50,7 +50,7 @@ I'm a Frontend Developer and Writer with 3 years of experience in the web develo
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=publikphigor)
 
-### Hacktoberfest Badges?
+### Hacktoberfest Badges 🚀
 
 [![@publikphigor's Holopin board](https://holopin.me/publikphigor)](https://holopin.io/@publikphigor)
 
