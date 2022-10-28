@@ -46,7 +46,7 @@ I'm a Frontend Developer and Writer with 3 years of experience in the web develo
 - 💻 I use no-code tools to automate processes and deploy MVPs faster.
 - 💰 Stack money!
 
-### Streaks?
+### Streaks 🔥
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=publikphigor)
 
