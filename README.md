@@ -39,7 +39,7 @@ I'm a Frontend Developer and Writer with 3 years of experience in the web develo
 
 ### 😎 WHAT I DO:
 
-- 🚀 I contrubute to making the web better pixel by pixel (by pushing quality code).
+- 🚀 I contribute to making the web better pixel by pixel (by pushing quality code).
 - 👨🏿‍💻 I contribute to Open Source.
 - 📝 I run a personal blog.
 - 💻 I build tools that simplify tasks.
