@@ -11,7 +11,7 @@ I'm a Frontend Developer and Writer with 3 years of experience in the web develo
 
 - [👨‍🏫 Connect on LinkedIn](https://www.linkedin.com/in/koladeleolaitan/)
 - [📩 Send a Mail](mailto:koladeleolaitan@gmail.com)
-- [🌐 View Portfolio Website](https://koladeleolaitan.com/)
+- [🌐 Portfolio](https://koladeleolaitan.com/)
 - [🎓 Resume](https://koladele-resume.netlify.app/)
 - [📝 Personal Blog](https://publikphigor.me/blog/)
 - [🅰 I built this](https://publikphigor-web-agency.netlify.app/)
