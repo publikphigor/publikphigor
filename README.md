@@ -54,6 +54,6 @@ I'm a Frontend Developer and Writer with 3 years of experience in the web develo
 
 [![@publikphigor's Holopin board](https://holopin.me/publikphigor)](https://holopin.io/@publikphigor)
 
-#### 😀 I'm open to Frontend Developer and Technical Writing jobs, gigs, or contracts.
+#### 😀 I'm open to Front-end Developer and Technical Writing jobs, gigs, or contracts.
 
 #### [📩 Hire Me](mailto:koladeleolaitan@gmail.com), let's make the web better together!
