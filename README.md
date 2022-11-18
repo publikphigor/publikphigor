@@ -15,7 +15,7 @@ I'm a Frontend Developer and Writer with 3 years of experience in the web develo
 - [🎓 Resume](https://koladele-resume.netlify.app/)
 - [📝 Personal Blog](https://publikphigor.me/blog/)
 - [🅰 I built this](https://publikphigor-web-agency.netlify.app/)
-- [🅱 I'm building this (open-source project)](https://cryptodyor.vercel.app/)
+- [🅱 Building this (open-source project)](https://cryptodyor.vercel.app/)
 
 ### 🛠 &nbsp; TECH STACK
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
