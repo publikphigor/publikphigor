@@ -56,4 +56,4 @@ I'm a Frontend Developer and Writer with 3 years of experience in the web develo
 
 #### 😀 I'm open to Front-end Developer and Technical Writing jobs, gigs, or contracts.
 
-#### [📩 Hire Me](mailto:koladeleolaitan@gmail.com), let's make the web better together!
+#### [📩 Hire Me](mailto:koladeleolaitan@gmail.com) => let's make the web better together!
