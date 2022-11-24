@@ -6,6 +6,7 @@
 
 ### 😎 About Me
 I'm a Frontend Developer and Writer with 3 years of experience in the web development industry. I love working on creative designs and improving the accessibility of web apps. I have worked on several amazing projects with a portfolio to show for it.
+I'm an active open-source contributor 🚀
 
 #### 🖇️ QUICK LINKS:
 
