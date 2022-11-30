@@ -57,4 +57,4 @@ I'm an active open-source contributor 🚀
 
 #### 😀 I'm open to Front-end Developer and Technical Writing jobs, gigs, or contracts.
 
-#### [📩 Hire Me](mailto:koladeleolaitan@gmail.com) => let's make the web better together!
+#### [📩 Hire Me](mailto:koladeleolaitan@gmail.com) => let's make the web better together;
