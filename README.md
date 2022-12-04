@@ -47,7 +47,7 @@ I'm an active open-source contributor 🚀
 - 💻 I use no-code tools to automate processes and deploy MVPs faster.
 - 💰 Stack money!
 
-### Streaks 🔥
+### Streaks? 🔥
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=publikphigor)
 
