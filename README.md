@@ -1,6 +1,6 @@
 `<HelloWorld! 👋/>`
 
-## I am Koladele Olaitan
+## Koladele Olaitan
 
 #### Frontend Developer & Technical Writer/Blogger.
 
