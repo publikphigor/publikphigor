@@ -1,12 +1,7 @@
 `<HelloWorld! 👋/>`
 
-## Koladele Olaitan
-
-#### Frontend Developer & Technical Writer/Blogger.
-
-### 😎 About Me
-I'm a Frontend Developer and Writer with 3 years of experience in the web development industry. I love working on creative designs and improving the accessibility of web apps. I have worked on several amazing projects with a portfolio to show for it.
-I'm an active open-source contributor 🚀
+## I'm Koladele Olaitan
+`and I try my best, I really do.`
 
 #### 🖇️ QUICK LINKS:
 
@@ -15,10 +10,8 @@ I'm an active open-source contributor 🚀
 - [🌐 Portfolio](https://koladeleolaitan.com/)
 - [🎓 Resume](https://koladele-resume.netlify.app/)
 - [📝 Personal Blog](https://publikphigor.me/blog/)
-- [🅰 I built this](https://publikphigor-web-agency.netlify.app/)
-- [🅱 Building this (open-source project)](https://cryptodyor.vercel.app/)
 
-### 🛠 &nbsp; TECH STACK
+#### 🛠 &nbsp; TECH STACK
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
@@ -39,7 +32,7 @@ I'm an active open-source contributor 🚀
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
-### 😎 WHAT I DO:
+##### Some `about me` so you think I'm  `cool`:
 
 - 🚀 I contribute to making the web better pixel by pixel (by pushing quality code).
 - 👨🏿‍💻 I contribute to Open Source.
@@ -48,14 +41,12 @@ I'm an active open-source contributor 🚀
 - 💻 I use no-code tools to automate processes and deploy MVPs faster.
 - 💰 Stack money!
 
-### Streaks? 🔥
+#### Streaks? 🔥
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=publikphigor)
 
-### Hacktoberfest Badges 🚀
+#### Hacktoberfest Badges 🚀
 
 [![@publikphigor's Holopin board](https://holopin.me/publikphigor)](https://holopin.io/@publikphigor)
 
-#### 😀 I'm open to Front-end Developer and Technical Writing jobs, gigs, or contracts.
-
-#### [📩 Hire Me](mailto:koladeleolaitan@gmail.com) => let's make the web better together;
+#### [📩 Let's Chat](https://calendly.com/koladeleolaitan/chat) => and maybe build the next big thing 😉
