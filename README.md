@@ -39,7 +39,7 @@
 - 📝 I run a personal blog.
 - 💻 I build tools that simplify tasks.
 - 💻 I use no-code tools to automate processes and deploy MVPs faster.
-- 💰 I Hustle
+- 💰 I'm chasing the bag.
 
 #### Streaks? 🔥
 
