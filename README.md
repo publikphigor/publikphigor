@@ -3,7 +3,7 @@
 ## I'm Koladele Olaitan
 `and I try my best, I really do.`
 
-#### 🖇️ QUICK LINKS:
+#### 🔗 Let's Link:
 
 - [👨‍🏫 Connect on LinkedIn](https://www.linkedin.com/in/koladeleolaitan/)
 - [📩 Send a Mail](mailto:koladeleolaitan@gmail.com)
@@ -11,7 +11,7 @@
 - [🎓 Resume](https://koladele-resume.netlify.app/)
 - [📝 Personal Blog](https://publikphigor.me/blog/)
 
-#### 🛠 &nbsp; TECH STACK
+#### 🛠 &nbsp; Tools I Play With
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
