@@ -9,7 +9,6 @@
 - [📩 Send a Mail](mailto:koladeleolaitan@gmail.com)
 - [🌐 Portfolio](https://koladeleolaitan.netlify.app/)
 - [🎓 Resume](https://koladele-resume.netlify.app/)
-- [📝 Personal Blog](https://publikphigor.me/blog/)
 
 ##### Some `about me` so you think I'm  `cool`:
 
