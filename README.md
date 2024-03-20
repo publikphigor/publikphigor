@@ -10,13 +10,13 @@
 - [🌐 Portfolio](https://koladeleolaitan.netlify.app/)
 - [🎓 Resume](https://koladele-resume.netlify.app/)
 
-##### Some `about me` so you think I'm  `cool`:
+## About Me
 
-- 🚀 I contribute to making the web better pixel by pixel (by pushing quality code).
-- 👨🏿‍💻 I contribute to Open Source.
-- 📝 I run a personal blog.
-- 💻 I build tools that simplify tasks.
-- 💰 I'm looking to create an invaluable product and get rewarded heavily (in cash).
+- 💼 Senior Frontend Engineer
+- 🌐 JavaScript | HTML | CSS | React | Vue.js
+- 🔧 UI/UX Design | Responsive Web Design
+- 📚 Continuous Learner | Tech Enthusiast
+
 
 #### Streaks? 🔥
 
