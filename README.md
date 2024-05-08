@@ -2,8 +2,6 @@
 
 ## I'm Koladele Olaitan
 
-#### 🔗
-
 - [👨‍🏫 Connect on LinkedIn](https://www.linkedin.com/in/koladeleolaitan/)
 - [📩 Send a Mail](mailto:koladeleolaitan@gmail.com)
 - [🌐 Portfolio](https://koladeleolaitan.netlify.app/)
