@@ -1,7 +1,5 @@
 `<HelloWorld! 👋/>`
 
-<a href="https://gitroll.io/profile/uHA6MomMAqidfsqZgmJxaRVxnX2u1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uHA6MomMAqidfsqZgmJxaRVxnX2u1" alt="GitRoll Profile Badge"/></a>
-
 - [👨‍🏫 Connect on LinkedIn](https://www.linkedin.com/in/koladeleolaitan/)
 - [📩 Send a Mail](mailto:koladeleolaitan@gmail.com)
 - [🌐 Portfolio](https://koladeleolaitan.netlify.app/)
