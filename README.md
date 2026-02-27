@@ -7,7 +7,7 @@
 
 ## About Me ?
 
-- 💼 Framework-agnostic Frontend Engineer
+- 💼 Framework-agnostic Software Engineer
 
 #### Hacktoberfest Badges 🚀
 
